@@ -1,0 +1,8 @@
+name: Nick
+description: A simple plugin that can change player nicknames
+main: dev.fadest.nick.Nick
+version: 1.0.0
+author: Fadest
+commands:
+  nick:
+    description: Change your own Nickname
